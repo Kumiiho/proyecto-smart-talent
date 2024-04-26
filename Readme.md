@@ -5,7 +5,7 @@
  npm install selenium-webdriver
 ```
 # Instalacion Microsoft edge WebDriver
-1. Inicialmente se descargara el Chromedriver 
+1. Inicialmente se descargara el microsoft edge webdriver 
     [Descarga](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH)
 Esta version debe ser compatible con la version actual de nuestro navegador
 
