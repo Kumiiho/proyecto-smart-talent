@@ -1,5 +1,5 @@
 
-# Las pruebas se realizaron con lenguaje de programación JavaScript exactamente desde NodeJS, con Selenium WebDriver desde el navegador de microsoft Edge
+# La automatización se realizo con lenguaje de programación JavaScript (NodeJS) utilizando Selenium WebDriver para el navegador de microsoft Edge
 # Instalacion selenium
 1. Para instalar Selenium a partir de la consola se utiliza el comando
 
